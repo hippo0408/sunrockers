@@ -29,7 +29,7 @@
     }
 
     .header-right h1:before{
-        font-size: 31px;
+        font-size: 26px;
         content: "SUNROCKERS SHIBUYA";
     }
 
@@ -161,13 +161,15 @@
        display: block;
     }
 
-.map-text{
+   .map-text{
     width: 100%;
-    margin: 0 auto;
-}
+    margin-left: 0;
+    }
 
     .map-text p{
         display: block;
+        width: 80%;
+        font-size: 15px;
     }
 
     .goods ul{
