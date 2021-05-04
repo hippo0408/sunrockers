@@ -1,4 +1,8 @@
 @media(max-width:780px){
+    
+    body{
+        overflow:hidden;
+    }
     .header-icon ul{
       text-align: center;        
     }
@@ -24,7 +28,7 @@
     }
 
     .header-right h1:before{
-        font-size: 33px;
+        font-size: 28px;
         content: "SUNROCKERS SHIBUYA";
     }
 
