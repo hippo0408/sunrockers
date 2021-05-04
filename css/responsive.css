@@ -1,0 +1,327 @@
+@media(max-width:780px){
+    .header-icon ul{
+      text-align: center;        
+    }
+
+    .header-icon ul li a{
+        font-size: 25px;
+    }
+
+    .header-left img{
+        width: 100px;
+        height: 100px;
+        margin-left:10px ;
+        margin-top: 50px;
+    }
+
+    .header-right{
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    
+    .header-right h1{
+        font-size: 0;
+    }
+
+    .header-right h1:before{
+        font-size: 33px;
+        content: "SUNROCKERS SHIBUYA";
+    }
+
+    .header-right h2{
+        font-size: 38px;
+    }
+
+    .header-title{
+        background-image: url(../images/image06.jpg);
+        background-attachment: fixed;
+        background-size:auto;
+        background-position: bottom;
+    }
+
+    main{
+        width: 100%;
+    }
+
+    .tabs ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .tabs ul li{
+        width: 25%;
+        border-right: none;
+        border-bottom: none;
+        border: 1px solid white;
+    }
+
+    .tabs ul li a{
+        font-size: 10px;
+    }
+
+    .panel{
+        width: 100%;
+    }
+
+    ul.panel{
+        border:1px solid white;
+       }
+
+    #slide-show{
+        width: 100%;
+    }
+
+    #slide-show img{
+       width: 100%;
+       height: 400px;
+    }
+
+    .text{
+        width: 90%
+    }
+
+    .arena{
+        flex-direction: column;
+        margin: 0 auto;
+        width: 95%;
+    }
+
+    .arena-image1{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .arena-image1 img{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .arena-image2{
+        order: 2;
+        margin-top: 50px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .arena-image2 img{
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    .arena-text2{
+        order: 3;
+       width: 100%;
+    }
+
+    
+
+    .arena-text1 h2{
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    .arena-text1{
+        text-align: center;
+        width: 100%;
+    }
+
+    .arena-text2{
+        text-align: center;
+        margin-top: 30px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .arena-text2 h2{
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .arena-text{
+        width: 100%; 
+        text-align: left;
+        display:block;
+    }
+
+    .access{
+        flex-direction: column;
+    }
+
+    .map{
+        text-align: center;
+    }
+
+    .map iframe{
+       width: 80%;
+       display: block;
+    }
+
+.map-text{
+    width: 100%;
+    margin: 0 auto;
+}
+
+    .map-text p{
+        display: block;
+    }
+
+    .goods ul{
+        flex-direction: column;
+    }
+
+    .goods-wrapper{
+        margin-top: 20px;
+    }
+
+    .ticket{
+        flex-direction: column;
+        width: 95%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .ticket-text{
+        width: 95%;
+        margin-top: 30px;
+    }
+    .ticket-text img{
+        width: 200px;
+    }
+
+    .player-wrapper{
+        width: 95%;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .team{
+        width: 95%;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+    
+    .team-wrapper{
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+    
+    h2.team-title{
+        display: inline-block;
+    }
+
+   .team-image{
+       width: 100%;
+       margin: 0 auto;
+   }
+    
+    .team-image img{
+        width: 100%;
+    }
+
+    .team-text{
+        width: 100%;
+        text-align: center;
+    }
+
+    .team-text p{
+        text-align: left;
+    }
+
+    #row{
+        flex-direction: column;
+    }
+
+    #row-text{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .player-card{
+        width: 100%;
+    }
+
+    .sundy-wrapper{
+        flex-direction: column;
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .sundy-image{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .sundy-image img{
+        width: 100%;
+    }
+
+    .sundy-coment{
+        width: 95%;
+    }
+
+    .about-table{
+        width: 100%;
+    }
+
+    .youtube{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    footer p{
+       margin-bottom: 15px;
+    }
+
+    .youtube iframe{
+        width: 90%;
+        display: block;
+        margin-top: 20px;
+    }
+
+    .girl-wrapper{
+        flex-direction: column;
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .girl-image{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .girl-image img{
+        width: 95%;
+    }
+
+    .girl-text{
+        width: 95%;
+    }
+
+    .girl-photo ul{
+        flex-direction: column;
+        margin: 0 auto;
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+    
+
+    .girl-photo ul li{
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .fa-chevron-circle-up{
+        font-size: 50px;
+        color:orangered;
+    }
+
+    
+
+
+
+}
+
+    
+
